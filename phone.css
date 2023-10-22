@@ -1,0 +1,37 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    height: 92vh;
+}
+
+#container {
+    flex-direction: column;
+    border: none;
+    border-radius: 8px;
+    padding: 4px;
+}
+
+#container input {
+    padding: 6px;
+    margin: 4px;
+    font-size: 1.02rem;
+}
+
+#container label {
+    padding: 4px;
+    margin: 4px;
+    font-size: 1.16rem;
+}
+
+#container h3 {
+    padding: 2px;
+    margin: 2px;
+    font-size: 1.94rem;
+}
